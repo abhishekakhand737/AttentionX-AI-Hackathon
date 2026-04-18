@@ -2,9 +2,11 @@
 VIRAL INTELLIGENCE  |AI Content Intelligence Platfor|
 > Decode what truly deserves your attention in the Attention Economy.
 
+---
+
 🌐 Live Demo: https://attention-x-ai-hackathon.vercel.app/  
+
 🎥 Demo Video: https://drive.google.com/file/d/1zZkpID0tiQ9saC4c8t1dNl1vd7BUxdKE/view  
-💻 GitHub Repo: https://github.com/abhishekakhand737/AttentionX-AI-Hackathon  
 
 ---
 
