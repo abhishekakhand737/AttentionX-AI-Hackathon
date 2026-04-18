@@ -1,5 +1,6 @@
 # ⚡ Attention-X AI  
-VIRAL INTELLIGENCE  |AI Content Intelligence Platfor|
+VIRAL INTELLIGENCE  
+AI Content Intelligence Platform
 > Decode what truly deserves your attention in the Attention Economy.
 
 ---
