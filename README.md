@@ -160,7 +160,7 @@ We are facing an **attention crisis**:
 ✔️ Solves a real-world Attention Economy problem
 ✔️ Goes beyond basic AI → focuses on meaningful intelligence
 ✔️ Combines AI + Ethics + User Value
-✔️ Scalable for real-world platforms
+✔️ Scalable for real-world platforms making.
 
 
 ---
@@ -182,6 +182,6 @@ https://www.linkedin.com/in/abhishek-akhand-391a19277
 If you found this project useful:
 ⭐ Star the repo
 🚀 Share it
-💡 Contribute ideas
+💡 Contribute ideas.
 
 ---
