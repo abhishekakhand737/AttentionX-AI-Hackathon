@@ -6,17 +6,17 @@
 
 ---
 
-### 🌐 Live Demo
+#### 🌐 Live Demo
 
 🔗 [Attention-X AI Live Demo](https://attention-x-ai-hackathon.vercel.app/?utm_source=chatgpt.com)
 
-### 🎥 Demo Video
+#### 🎥 Demo Video
 
 👉 [Watch Demo Video](https://drive.google.com/file/d/1zZkpID0tiQ9saC4c8t1dNl1vd7BUxdKE/view?utm_source=chatgpt.com)
 
 ---
 
-## 🧠 Problem Statement
+### 🧠 Problem Statement
 
 We are living in the **Attention Economy**, where digital platforms compete for one thing:
 
@@ -24,7 +24,7 @@ We are living in the **Attention Economy**, where digital platforms compete for 
 
 Platforms like YouTube, TikTok, and Netflix are designed to maximize engagement — not necessarily value.
 
-## 🚨 Key Issues
+### 🚨 Key Issues
 
 * ❌ Viral content ≠ Valuable content
 * ❌ High consumption, low learning
@@ -34,7 +34,7 @@ Platforms like YouTube, TikTok, and Netflix are designed to maximize engagement 
 
 ---
 
-## 💡 Our Solution — Attention-X AI
+### 💡 Our Solution — Attention-X AI
 
 **Attention-X AI** is an AI-powered content intelligence system that answers:
 
@@ -134,7 +134,7 @@ Generates:
 
 ---
 
-## 🌍 Why This Matters
+### 🌍 Why This Matters
 
 We are facing an **Attention Crisis**:
 
@@ -142,14 +142,14 @@ We are facing an **Attention Crisis**:
 * 🔁 Endless scrolling loops
 * 🧠 Reduced deep thinking
 
-### 🔥 Our Vision
+## 🔥 Our Vision
 
 > Not “What is trending?”
 > But “What is worth your attention?”
 
 ---
 
-### 🚀 Future Scope
+## 🚀 Future Scope
 
 * 🌐 Chrome Extension for real-time analysis
 * 📱 Mobile Application
@@ -159,7 +159,7 @@ We are facing an **Attention Crisis**:
 
 ---
 
-### 🏆 Hackathon Impact
+## 🏆 Hackathon Impact
 
 ✔️ Solves a real-world Attention Economy problem
 ✔️ Goes beyond basic AI by focusing on meaningful intelligence
