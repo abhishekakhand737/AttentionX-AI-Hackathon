@@ -6,17 +6,17 @@
 
 ---
 
-## 🌐 Live Demo
+### 🌐 Live Demo
 
 🔗 https://attention-x-ai-hackathon.vercel.app/
 
-## 🎥 Demo Video
+### 🎥 Demo Video
 
 👉 https://drive.google.com/file/d/1zZkpID0tiQ9saC4c8t1dNl1vd7BUxdKE/view
 
 ---
 
-## 🧠 Problem Statement
+### 🧠 Problem Statement
 
 We are living in the **Attention Economy**, where platforms compete for one thing:
 
@@ -34,7 +34,7 @@ Platforms like YouTube, TikTok, and Netflix are designed to maximize engagement 
 
 ---
 
-## 💡 Our Solution — Attention-X AI
+### 💡 Our Solution — Attention-X AI
 
 **Attention-X AI** is an AI-powered content intelligence system that answers:
 
@@ -103,7 +103,7 @@ Generates:
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 | Layer      | Technology             |
 | ---------- | ---------------------- |
@@ -114,7 +114,7 @@ Generates:
 
 ---
 
-## 🎯 Use Cases
+### 🎯 Use Cases
 
 🎓 **Students**
 → Avoid distractions & focus on learning
@@ -130,7 +130,7 @@ Generates:
 
 ---
 
-## 🌍 Why This Matters
+### 🌍 Why This Matters
 
 We are facing an **attention crisis**:
 
@@ -145,7 +145,7 @@ We are facing an **attention crisis**:
 
 ---
 
-## 🚀 Future Scope
+### 🚀 Future Scope
 
 * 🌐 Chrome Extension (real-time analysis)
 * 📱 Mobile Application
@@ -155,7 +155,7 @@ We are facing an **attention crisis**:
 
 ---
 
-## 🏆 Hackathon Impact
+### 🏆 Hackathon Impact
 
 ✔️ Solves a real-world Attention Economy problem
 ✔️ Goes beyond basic AI → focuses on meaningful intelligence
@@ -165,7 +165,7 @@ We are facing an **attention crisis**:
 
 ---
 
-## 🧑‍💻 Author
+# 🧑‍💻 Author
 
 **Abhishek Akhand**
 
