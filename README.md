@@ -1,4 +1,4 @@
-# ⚡ Attention-X AI
+##⚡ Attention-X AI
 
 ### 🧠 AI-Powered Content Intelligence System
 
@@ -6,17 +6,17 @@
 
 ---
 
-## 🌐 Live Demo
+#### 🌐 Live Demo
 
 🔗 [Attention-X AI](https://attention-x-ai-hackathon.vercel.app/)
 
-## 🎥 Demo Video
+#### 🎥 Demo Video
 
 ▶️ [Watch Demo](https://drive.google.com/file/d/1zZkpID0tiQ9saC4c8t1dNl1vd7BUxdKE/view)
 
 ---
 
-# 📌 Overview
+### 📌 Overview
 
 In today’s digital world, platforms like YouTube, TikTok, and Netflix are optimized to maximize engagement and screen time.
 
@@ -30,7 +30,7 @@ The problem is simple:
 
 ---
 
-# 💡 Core Idea
+### 💡 Core Idea
 
 Attention-X AI answers one important question:
 
@@ -43,30 +43,30 @@ The system classifies content into:
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
-## ⚡ Viral Signal Detection
+### ⚡ Viral Signal Detection
 
 Detects:
 - Clickbait patterns
 - Emotional hooks
 - Addictive engagement structures
 
-## 🧠 Wisdom Signal Detection
+### 🧠 Wisdom Signal Detection
 
 Measures:
 - Information richness
 - Learning value
 - Cognitive depth
 
-## 📊 Smart Scoring System
+### 📊 Smart Scoring System
 
 Generates:
 - Attention Score
 - Wisdom Score
 - Final Classification
 
-## 🎨 Interactive UI
+### 🎨 Interactive UI
 
 - Fast and responsive
 - Real-time analysis
@@ -74,7 +74,7 @@ Generates:
 
 ---
 
-# ⚙️ How It Works
+### ⚙️ How It Works
 
 ## 🔄 Workflow
 
@@ -89,7 +89,7 @@ Generates:
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 | Layer | Technology |
 |------|-------------|
@@ -100,18 +100,18 @@ Generates:
 
 ---
 
-# 🎯 Use Cases
+### 🎯 Use Cases
 
-## 🎓 Students
+🎓 Students
 Improve focus and prioritize meaningful learning content.
 
-## 🎥 Content Creators
+🎥 Content Creators
 Create more impactful and value-driven content.
 
-## 🧠 Researchers
+🧠 Researchers
 Analyze digital attention patterns and user behavior.
 
-## 💻 Developers
+ 💻 Developers
 Build ethical and human-centered AI systems.
 
 ---
@@ -132,7 +132,7 @@ We are facing a growing attention crisis:
 
 ---
 
-# 🚀 Future Scope
+## 🚀 Future Scope
 
 - 🌐 Chrome Extension
 - 📱 Mobile Application
@@ -142,7 +142,7 @@ We are facing a growing attention crisis:
 
 ---
 
-# 🏆 Hackathon Impact
+## 🏆 Hackathon Impact
 
 - ✅ Solves a real-world attention economy problem
 - ✅ Combines AI with ethical technology
@@ -151,9 +151,9 @@ We are facing a growing attention crisis:
 
 ---
 
-# 👨‍💻 Author
+### 👨‍💻 Author
 
-## Abhishek Akhand
+### Abhishek Akhand
 
 ### 🔗 GitHub Repository
 [Attention-X AI GitHub Repo](https://github.com/abhishekakhand737/AttentionX-AI-Hackathon)
@@ -163,7 +163,7 @@ We are facing a growing attention crisis:
 
 ---
 
-# ⭐ Support
+### ⭐ Support
 
 If you found this project useful:
 
