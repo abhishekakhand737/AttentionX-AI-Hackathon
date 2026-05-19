@@ -1,22 +1,22 @@
-# ⚡ Attention-X AI
+## ⚡ Attention-X AI
 
-## 🧠 Viral Intelligence Engine
+### 🧠 Viral Intelligence Engine
 
 > Decode what truly deserves your attention in the Attention Economy.
 
 ---
 
-# 🌐 Live Demo
+### 🌐 Live Demo
 
 🔗 [Attention-X AI Live Demo](https://attention-x-ai-hackathon.vercel.app/?utm_source=chatgpt.com)
 
-# 🎥 Demo Video
+### 🎥 Demo Video
 
 👉 [Watch Demo Video](https://drive.google.com/file/d/1zZkpID0tiQ9saC4c8t1dNl1vd7BUxdKE/view?utm_source=chatgpt.com)
 
 ---
 
-# 🧠 Problem Statement
+## 🧠 Problem Statement
 
 We are living in the **Attention Economy**, where digital platforms compete for one thing:
 
@@ -34,13 +34,13 @@ Platforms like YouTube, TikTok, and Netflix are designed to maximize engagement 
 
 ---
 
-# 💡 Our Solution — Attention-X AI
+## 💡 Our Solution — Attention-X AI
 
 **Attention-X AI** is an AI-powered content intelligence system that answers:
 
 > 🧠 *“Is this content worth your attention?”*
 
-## 🔍 Output Classification
+### 🔍 Output Classification
 
 * ⚡ **Viral Distraction**
 * 🧠 **Valuable Insight**
@@ -49,7 +49,7 @@ Platforms like YouTube, TikTok, and Netflix are designed to maximize engagement 
 
 # 🔍 Features
 
-## ⚡ Viral Signal Detection
+### ⚡ Viral Signal Detection
 
 Identifies attention-grabbing patterns such as:
 
@@ -59,7 +59,7 @@ Identifies attention-grabbing patterns such as:
 
 ---
 
-## 🧠 Wisdom Signal Detection
+### 🧠 Wisdom Signal Detection
 
 Measures meaningful depth through:
 
@@ -69,7 +69,7 @@ Measures meaningful depth through:
 
 ---
 
-## 📊 Smart Scoring System
+### 📊 Smart Scoring System
 
 Generates:
 
@@ -79,7 +79,7 @@ Generates:
 
 ---
 
-## 🎨 Clean & Interactive UI
+### 🎨 Clean & Interactive UI
 
 * Fast and responsive
 * Real-time feedback
@@ -87,9 +87,9 @@ Generates:
 
 ---
 
-# 🧪 How It Works
+##🧪 How It Works
 
-## ⚙️ Workflow
+### ⚙️ Workflow
 
 1. User inputs content (**text / video / audio**)
 2. AI extracts multimodal signals
@@ -103,7 +103,7 @@ Generates:
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 | Layer      | Technology             |
 | ---------- | ---------------------- |
@@ -114,27 +114,27 @@ Generates:
 
 ---
 
-# 🎯 Use Cases
+## 🎯 Use Cases
 
-## 🎓 Students
+### 🎓 Students
 
 → Avoid distractions and focus on meaningful learning
 
-## 🎥 Content Creators
+### 🎥 Content Creators
 
 → Create high-impact and value-driven content
 
-## 🧠 Researchers
+### 🧠 Researchers
 
 → Analyze attention behavior and engagement patterns
 
-## 💻 Developers
+### 💻 Developers
 
 → Build ethical and human-centered AI systems
 
 ---
 
-# 🌍 Why This Matters
+## 🌍 Why This Matters
 
 We are facing an **Attention Crisis**:
 
@@ -142,14 +142,14 @@ We are facing an **Attention Crisis**:
 * 🔁 Endless scrolling loops
 * 🧠 Reduced deep thinking
 
-## 🔥 Our Vision
+### 🔥 Our Vision
 
 > Not “What is trending?”
 > But “What is worth your attention?”
 
 ---
 
-# 🚀 Future Scope
+### 🚀 Future Scope
 
 * 🌐 Chrome Extension for real-time analysis
 * 📱 Mobile Application
@@ -159,7 +159,7 @@ We are facing an **Attention Crisis**:
 
 ---
 
-# 🏆 Hackathon Impact
+### 🏆 Hackathon Impact
 
 ✔️ Solves a real-world Attention Economy problem
 ✔️ Goes beyond basic AI by focusing on meaningful intelligence
@@ -168,9 +168,9 @@ We are facing an **Attention Crisis**:
 
 ---
 
-# 🧑‍💻 Author
+### 🧑‍💻 Author
 
-## **Abhishek Akhand**
+### **Abhishek Akhand**
 
 ### 🔗 GitHub Repository
 
@@ -182,7 +182,7 @@ We are facing an **Attention Crisis**:
 
 ---
 
-# ⭐ Support
+### ⭐ Support
 
 If you found this project useful:
 
