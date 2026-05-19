@@ -116,7 +116,7 @@ Build ethical and human-centered AI systems.
 
 ---
 
-# 🌍 Why This Matters
+### 🌍 Why This Matters
 
 We are facing a growing attention crisis:
 
@@ -124,7 +124,7 @@ We are facing a growing attention crisis:
 - 🔁 Endless scrolling behavior
 - 🧠 Decline in deep thinking
 
-## 🔥 Our Vision
+### 🔥 Our Vision
 
 > Not “What is trending?”
 >
@@ -132,7 +132,7 @@ We are facing a growing attention crisis:
 
 ---
 
-## 🚀 Future Scope
+### 🚀 Future Scope
 
 - 🌐 Chrome Extension
 - 📱 Mobile Application
@@ -142,7 +142,7 @@ We are facing a growing attention crisis:
 
 ---
 
-## 🏆 Hackathon Impact
+### 🏆 Hackathon Impact
 
 - ✅ Solves a real-world attention economy problem
 - ✅ Combines AI with ethical technology
