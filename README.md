@@ -1,22 +1,22 @@
-# Attention-X AI
+# ⚡ Attention-X AI
 
-### AI-Powered Content Intelligence System
+### 🧠 AI-Powered Content Intelligence System
 
 > Decode what truly deserves your attention in the Attention Economy.
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
 🔗 [Attention-X AI](https://attention-x-ai-hackathon.vercel.app/)
 
-## Demo Video
+## 🎥 Demo Video
 
-🎥 [Watch Demo](https://drive.google.com/file/d/1zZkpID0tiQ9saC4c8t1dNl1vd7BUxdKE/view)
+▶️ [Watch Demo](https://drive.google.com/file/d/1zZkpID0tiQ9saC4c8t1dNl1vd7BUxdKE/view)
 
 ---
 
-# Overview
+# 📌 Overview
 
 In today’s digital world, platforms like YouTube, TikTok, and Netflix are optimized to maximize engagement and screen time.
 
@@ -26,47 +26,47 @@ The problem is simple:
 - People consume more but learn less
 - There is no clear system to measure content quality
 
-Attention-X AI solves this problem by analyzing content and determining whether it provides real value or simply captures attention.
+**Attention-X AI** solves this problem by analyzing content and determining whether it provides real value or simply captures attention.
 
 ---
 
-# Core Idea
+# 💡 Core Idea
 
 Attention-X AI answers one important question:
 
-> “Is this content worth your attention?”
+> **“Is this content worth your attention?”**
 
 The system classifies content into:
 
-- **Viral Distraction**
-- **Valuable Insight**
+- ⚡ **Viral Distraction**
+- 🧠 **Valuable Insight**
 
 ---
 
-# Features
+# 🚀 Features
 
-## Viral Signal Detection
+## ⚡ Viral Signal Detection
 
 Detects:
 - Clickbait patterns
 - Emotional hooks
 - Addictive engagement structures
 
-## Wisdom Signal Detection
+## 🧠 Wisdom Signal Detection
 
 Measures:
 - Information richness
 - Learning value
 - Cognitive depth
 
-## Smart Scoring System
+## 📊 Smart Scoring System
 
 Generates:
 - Attention Score
 - Wisdom Score
 - Final Classification
 
-## Interactive UI
+## 🎨 Interactive UI
 
 - Fast and responsive
 - Real-time analysis
@@ -74,9 +74,9 @@ Generates:
 
 ---
 
-# How It Works
+# ⚙️ How It Works
 
-## Workflow
+## 🔄 Workflow
 
 1. User submits content (text, video, or audio)
 2. AI extracts multimodal signals
@@ -89,7 +89,7 @@ Generates:
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 | Layer | Technology |
 |------|-------------|
@@ -100,31 +100,31 @@ Generates:
 
 ---
 
-# Use Cases
+# 🎯 Use Cases
 
-## Students
+## 🎓 Students
 Improve focus and prioritize meaningful learning content.
 
-## Content Creators
+## 🎥 Content Creators
 Create more impactful and value-driven content.
 
-## Researchers
+## 🧠 Researchers
 Analyze digital attention patterns and user behavior.
 
-## Developers
+## 💻 Developers
 Build ethical and human-centered AI systems.
 
 ---
 
-# Why This Matters
+# 🌍 Why This Matters
 
 We are facing a growing attention crisis:
 
-- Reduced focus span
-- Endless scrolling behavior
-- Decline in deep thinking
+- 📉 Reduced focus span
+- 🔁 Endless scrolling behavior
+- 🧠 Decline in deep thinking
 
-## Our Vision
+## 🔥 Our Vision
 
 > Not “What is trending?”
 >
@@ -132,41 +132,41 @@ We are facing a growing attention crisis:
 
 ---
 
-# Future Scope
+# 🚀 Future Scope
 
-- Chrome Extension
-- Mobile Application
-- Advanced Multimodal AI
-- Personalized Insights
-- Creator Analytics Dashboard
-
----
-
-# Hackathon Impact
-
-- Solves a real-world attention economy problem
-- Combines AI with ethical technology
-- Encourages meaningful content consumption
-- Designed for scalable real-world use
+- 🌐 Chrome Extension
+- 📱 Mobile Application
+- 🤖 Advanced Multimodal AI
+- 🎯 Personalized Insights
+- 📊 Creator Analytics Dashboard
 
 ---
 
-# Author
+# 🏆 Hackathon Impact
+
+- ✅ Solves a real-world attention economy problem
+- ✅ Combines AI with ethical technology
+- ✅ Encourages meaningful content consumption
+- ✅ Designed for scalable real-world use
+
+---
+
+# 👨‍💻 Author
 
 ## Abhishek Akhand
 
-### GitHub Repository
+### 🔗 GitHub Repository
 [Attention-X AI GitHub Repo](https://github.com/abhishekakhand737/AttentionX-AI-Hackathon)
 
-### LinkedIn
+### 🔗 LinkedIn
 [Abhishek Akhand LinkedIn](https://www.linkedin.com/in/abhishek-akhand-391a19277)
 
 ---
 
-# Support
+# ⭐ Support
 
 If you found this project useful:
 
-- Star the repository
-- Share the project
-- Contribute ideas and improvements
+- ⭐ Star the repository
+- 🚀 Share the project
+- 💡 Contribute ideas and improvements
